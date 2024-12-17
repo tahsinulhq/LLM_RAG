@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-groq
+python-dotenv
+langchain_community
+chainlit
+PyPDF2
+Chromadb
+groq
+ollama
+tokenizers==0.14
